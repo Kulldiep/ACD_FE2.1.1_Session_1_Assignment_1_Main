@@ -1,0 +1,22 @@
+Steps for Installation of Node JS
+1. Open the below URL in browser
+https://nodejs.org/en/
+
+2.Download the Windows installer from the above mentioned Nodes.js® web site.
+
+3. Post Download, run the installer.
+
+4. Follow the Prompt boxes, by clicking on "Next" on selecting npm package manager.
+
+5. In order to get the node js added to the path of environment variables, do restart the system.
+
+6. In case, it fails to get added to the path, it can also be added manually.
+
+7. To test if Node is installed, open the Windows Command Prompt command line tool, and type node -v + enter.
+
+8. It would print the version number v0. xx. yy .
+
+9. To see if NPM is installed, type npm -v in Terminal. It would print the version number. 
+
+10. Incase, if it throws an error for npm, we would need to provide the command "npm install" and then repeat the step.9 post installation success.
+
